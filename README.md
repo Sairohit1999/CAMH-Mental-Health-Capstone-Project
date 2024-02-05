@@ -1,0 +1,2 @@
+# CAMH Mental Health Capstone Project
+ Revolutionizing patient data management at a Mental Health Clinic, this project implemented a centralized electronic database, replacing paper forms and Excel. The migration to digital records, facilitated by an ETL process, improved efficiency and reduced errors. Interactive Power BI dashboards were introduced, offering real-time insights into patient data for informed decision-making and operational efficiency.
